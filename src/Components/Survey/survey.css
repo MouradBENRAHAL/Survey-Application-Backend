@@ -1,0 +1,70 @@
+/* FormSurvey*/
+.form-sruvey-input-radio{
+    width: 5.333333%;
+}
+
+.btn-option{
+    background: none;
+    color:#1c78fa;
+    border: none;
+}
+
+.delete-icon{
+    color: rgb(221, 4, 4);
+    cursor: pointer;
+    float: right;
+    font-size: 1.5rem; 
+}
+
+.add-icon{
+    font-size: 0.95em;
+    color: cornflowerblue;
+    cursor:cell;
+}
+
+.btn-add-question {
+    color: #0d6efd;
+    background: white;
+    margin: auto;
+}
+
+.delete-choice{
+    color: cornflowerblue;
+    opacity: 0.5;
+    font-size: 1.6rem; 
+    cursor: pointer;
+}
+
+/* ListSurvey */
+.list-group{
+    max-height: 80vh;
+    margin-bottom: 10px;
+    overflow-y:scroll;
+    position: relative;
+}
+
+/* Preview */
+.picture_surveyAnswer{
+    width:30%;
+    height: 100%;
+}
+
+
+::-webkit-scrollbar {
+  width: 7px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: white; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgb(124, 161, 241); 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #156be2;
+}
