@@ -1,3 +1,7 @@
 # Survey-Application-Backend 
 
-npm install 
+to run this application 
+
+* npm install
+
+* npm start
